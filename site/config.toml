@@ -1,6 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "PiXeLaDaS "
+Subtitle: Hugo is Absurdly Fast!
 
 theme = "hugo-theme-casper"
 

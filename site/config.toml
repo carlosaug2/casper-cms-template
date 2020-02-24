@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "PiXeLaDaS "
 theme = "hugo-theme-casper"
 
 # Enable Google Analytics by inserting your tracking code
@@ -12,11 +12,11 @@ canonifyurls = true
 [params]
   description = "this is my description"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
+  author = "pixeladas"
+  authorlocation = "Em algum local da galaxia"
   authorwebsite = "http://vjeantet.fr"
-  bio= "my bio"
-  logo = "images/logo.png"
+  bio= ""
+  logo = "images/hermitaobio.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."

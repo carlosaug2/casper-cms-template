@@ -5,4 +5,8 @@ title = "about"
 
 +++
 
-## This is where our page Markdown content lives.
+## Gostou do nosso conteudo ?!
+ 
+ Voce tem alguma sugestao para a pagina, quer fazer algum tipo de parceria ou alguma duvida, entre em contato conosco !
+ 
+ email : pixeladascanal@gmail.com

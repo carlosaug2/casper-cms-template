@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "PiXeLaDaS "
-subtitle: "Seu espaço de entretenimento digital"
+
 theme = "hugo-theme-casper"
 
 # Enable Google Analytics by inserting your tracking code

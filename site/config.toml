@@ -18,7 +18,7 @@ canonifyurls = true
   authorlocation = "Em algum local da galaxia"
   authorwebsite = ""
   bio= ""
-  logo = "images/hermitaobio2.jpg"
+  logo = "images/way2.jpg"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."

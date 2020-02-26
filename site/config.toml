@@ -13,7 +13,7 @@ canonifyurls = true
 
 [params]
   description = "this is my description"
-  cover = "images/planetas.jpg"
+  cover = "images/spacex.jpg"
   author = "pixeladas"
   authorlocation = "Em algum local da galaxia"
   authorwebsite = ""

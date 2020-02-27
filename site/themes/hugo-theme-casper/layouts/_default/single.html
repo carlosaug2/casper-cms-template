@@ -1,4 +1,5 @@
 {{ partial "header.html" . }}
+ <a href="/" class="">Home</a>
 {{ $baseurl := .Site.BaseURL }}
   <a href="/" class="">Home</a>
 {{if .Params.image}}
@@ -8,9 +9,11 @@
   <header class="main-header post-head" style="background-image: url({{.Params.image}})">
       <a href="/" class="">Home</a>
   {{ else }}
+     <a href="/" class="">Home</a>
   <header class="main-header post-head" style="background-image: url({{ $baseurl }}{{.Params.image}})">
       <a href="/" class="">Home</a>
   {{ end }}
+     <a href="/" class="">Home</a>
   <nav class="main-nav overlay clearfix">
      <a href="/" class="">Home</a>
 {{else}}

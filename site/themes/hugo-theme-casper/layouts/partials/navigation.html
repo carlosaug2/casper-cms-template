@@ -3,6 +3,16 @@
     <a href="#" class="nav-close">
         <span class="hidden">Close</span>
     </a>
+    <a href="/" class="pa3 db mr4 h-100 w3 flex-none">
+		<img src="" alt="" class="br0 db mb0 w-100"/>Home
+	</a>
+
+	<!-- Primary Nav -->
+	<ul class="flex b grey-3">
+		
+
+		<li><a href="/contact" class="pa3 no-underline db">Contato</a></li>
+	</ul>
     <ul>
         {{ $currentNode := . }}
         
@@ -12,7 +22,7 @@
             	<a href="{{.URL}}">{{.Name}}</a>
                 
             </li>
-             <li><a href="/contact" class="pa3 no-underline db">Contato</a></li>
+             
         {{end}}
     </ul>
     

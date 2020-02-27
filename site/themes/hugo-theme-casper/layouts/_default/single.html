@@ -39,6 +39,7 @@
       <a class="menu-button icon-feed" href="{{ .Site.BaseURL }}index.xml">&nbsp;&nbsp;Inscreva-se e receba novidades</a>
       
   {{end}}
+     <a href="/" class="">Home</a>
   </nav>
 </header>
 
@@ -81,7 +82,7 @@
     {{if .Site.Params.logo}}
     <figure class="author-image">
         <a class="img" href="{{.Site.BaseURL}}" style="background-image: url({{ $baseurl }}{{.Site.Params.logo}})"><span class="hidden">{{.Site.Params.author}}'s Picture</span></a>
-    <a href="/" class="">Home</a>
+   
     </figure>
     {{end}}
 

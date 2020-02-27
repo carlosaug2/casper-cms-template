@@ -13,14 +13,18 @@
     <nav class="main-nav overlay clearfix">
         {{ if .Site.Params.logo }}
             <a class="blog-logo" href="{{ .Permalink }}"><img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" alt="Blog Logo" /></a>
+       <a href="/contact" class="pa3 no-underline db">Contato</a>
         {{end}}
         {{ if .Site.Menus.main }}
             <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+       <a href="/contact" class="pa3 no-underline db">Contato</a>
         {{else}}
             {{ if .Site.Params.RSSLink}}
               <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;Inscreva-se e receba novidades</a>
+       <a href="/contact" class="pa3 no-underline db">Contato</a>
             {{else}}
               <a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;Inscreva-se e receba novidades</a>
+       <a href="/contact" class="pa3 no-underline db">Contato</a>
             {{end}}
         {{end}}
     </nav>

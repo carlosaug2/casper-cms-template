@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-
+{{ partial "navigation.html" . }}
 {{if .Site.Params.cover}}
 {{if or (eq (substr .Site.Params.cover 0 7) "http://") (eq (substr .Site.Params.cover 0 8) "https://")}}
   <header class="main-header" style="background-image: url({{.Site.Params.cover}})">
@@ -13,18 +13,18 @@
     <nav class="main-nav overlay clearfix">
         {{ if .Site.Params.logo }}
             <a class="blog-logo" href="{{ .Permalink }}"><img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" alt="Blog Logo" /></a>
-       <a href="/contact" class="pa3 no-underline db">Contato</a>
+      
         {{end}}
         {{ if .Site.Menus.main }}
             <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
-       <a href="/contact" class="pa3 no-underline db">Contato</a>
+       
         {{else}}
             {{ if .Site.Params.RSSLink}}
               <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;Inscreva-se e receba novidades</a>
-       <a href="/contact" class="pa3 no-underline db">Contato</a>
+       
             {{else}}
               <a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;Inscreva-se e receba novidades</a>
-       <a href="/contact" class="pa3 no-underline db">Contato</a>
+       
             {{end}}
         {{end}}
     </nav>

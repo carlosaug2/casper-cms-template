@@ -10,7 +10,9 @@
             {{.Pre}}
             <li class="nav-opened{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}} nav-current{{end}}" role="presentation">
             	<a href="{{.URL}}">{{.Name}}</a>
+                
             </li>
+             <li><a href="/contact" class="pa3 no-underline db">Contato</a></li>
         {{end}}
     </ul>
     

@@ -2,28 +2,35 @@
 {{ $baseurl := .Site.BaseURL }}
   <a href="/" class="">Home</a>
 {{if .Params.image}}
+  <a href="/" class="">Home</a>
   {{if or (eq (substr .Params.image 0 7) "http://") (eq (substr .Params.image 0 8) "https://")}}
    <a href="/" class="">Home</a>
   <header class="main-header post-head" style="background-image: url({{.Params.image}})">
+      <a href="/" class="">Home</a>
   {{ else }}
   <header class="main-header post-head" style="background-image: url({{ $baseurl }}{{.Params.image}})">
+      <a href="/" class="">Home</a>
   {{ end }}
   <nav class="main-nav overlay clearfix">
      <a href="/" class="">Home</a>
 {{else}}
 <header class="main-header post-head no-cover">
+    <a href="/" class="">Home</a>
   <nav class="main-nav clearfix">
      <a href="/" class="">Home</a>
 {{end}}
 
   {{ if .Site.Params.logo }}
+      <a href="/" class="">Home</a>
       <a class="blog-logo" href="{{.Site.BaseURL}}"><img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" alt="Home" /></a>
     <a href="/" class="">Home</a>
   {{end}}
   {{ if .Site.Menus.main }}
+      <a href="/" class="">Home</a>
       <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
        <a href="/" class="">Home</a>
   {{else}}
+      <a href="/" class="">Home</a>
       <a class="menu-button icon-feed" href="{{ .Site.BaseURL }}index.xml">&nbsp;&nbsp;Inscreva-se e receba novidades</a>
        <a href="/" class="">Home</a>
     
@@ -41,15 +48,18 @@
   <article class="post {{ .Section }}">
   <a href="/" class="">Home</a>
     <header class="post-header">
+        <a href="/" class="">Home</a>
         <h1 class="post-title">{{.Title}}</h1>
         <small>{{.Description}}</small>
   <a href="/" class="">Home</a>
         <section class="post-meta">
+            <a href="/" class="">Home</a>
         {{ if eq .Section "post"}}
           <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
             {{ .Date.Format "Jan 2, 2006" }}
           </time>
         {{end}}
+            <a href="/" class="">Home</a>
          {{ range .Params.tags }}
           <span class="post-tag small"><a href="{{ $baseurl }}tags/{{ . | urlize }}/">#{{ . }}</a></span>
          {{ end }}

@@ -1,10 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "PiXeLaDaS "
-
-
 theme = "hugo-theme-casper"
-
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -22,7 +19,7 @@ canonifyurls = true
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = ""
+  githubName = "vjeantet"
   twitterName = ""
   # facebookName = ""
   # linkedinName = ""

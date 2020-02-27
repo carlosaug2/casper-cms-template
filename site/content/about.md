@@ -5,7 +5,7 @@ title = "Fale conosco"
 
 +++
 
-## Ola Leitor, Gostou do nosso conteudo ?!
+Ola Leitor, Gostou do nosso conteudo ?!
  
  Voce tem alguma sugestão de publicacoes, quer fazer algum tipo de parceria conosco ou voce tem alguma duvida?
  Entre em contato conosco !

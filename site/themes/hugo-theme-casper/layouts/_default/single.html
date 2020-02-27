@@ -3,9 +3,9 @@
 {{ $baseurl := .Site.BaseURL }}
   
 {{if .Params.image}}
-<nav>
-  <a href="/" class="">Home</a>
-  </nav>
+
+ 
+ 
   {{if or (eq (substr .Params.image 0 7) "http://") (eq (substr .Params.image 0 8) "https://")}}
   
   <header class="main-header post-head" style="background-image: url({{.Params.image}})">
@@ -81,6 +81,7 @@
     {{if .Site.Params.logo}}
     <figure class="author-image">
         <a class="img" href="{{.Site.BaseURL}}" style="background-image: url({{ $baseurl }}{{.Site.Params.logo}})"><span class="hidden">{{.Site.Params.author}}'s Picture</span></a>
+    <a href="/" class="">Home</a>
     </figure>
     {{end}}
 

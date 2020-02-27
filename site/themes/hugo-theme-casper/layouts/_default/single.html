@@ -9,6 +9,8 @@
   {{if or (eq (substr .Params.image 0 7) "http://") (eq (substr .Params.image 0 8) "https://")}}
   
   <header class="main-header post-head" style="background-image: url({{.Params.image}})">
+    
+    <header class="main-header" style="background-image: url({{.Site.Params.cover}})">
      
   {{ else }}
     
@@ -41,11 +43,7 @@
   {{end}}
      <a href="/" class="">Home</a>
    
-  image: /images/botbot.jpg
-    
-    
 
-![Introducao Carnaval 2020](/images/carna20.jpg)
   </nav>
 </header>
 

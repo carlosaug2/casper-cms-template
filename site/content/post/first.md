@@ -3,7 +3,6 @@
 ---
 date: 2020-02-22T20:04:40.407Z
 title: Primeiro Grande Post (HELLO WORLD!)
-image: 
 ---
 
 {{ partial "single.html" . }}

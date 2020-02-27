@@ -1,9 +1,9 @@
-![Introducao Carnaval 2020](/images/botbot.jpg)
+
 
 ---
 date: 2020-02-22T20:04:40.407Z
 title: Primeiro Grande Post (HELLO WORLD!)
-![Introducao Carnaval 2020](/images/botbot.jpg)
+image = "/images/botbot.jpg"
 ---
 
 

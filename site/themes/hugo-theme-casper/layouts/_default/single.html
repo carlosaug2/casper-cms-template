@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
- <a href="/" class="">Home</a>
+
 {{ $baseurl := .Site.BaseURL }}
- 
+  <a href="/" class="">Home</a>
 {{if .Params.image}}
  
   {{if or (eq (substr .Params.image 0 7) "http://") (eq (substr .Params.image 0 8) "https://")}}

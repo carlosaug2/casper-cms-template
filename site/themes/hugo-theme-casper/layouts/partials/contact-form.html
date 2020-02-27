@@ -1,0 +1,63 @@
+<!-- Contact -->
+<div class="mb4">
+  <h4 class="f3 b lh-title mb3 tc"></h4>
+
+  <form class="email-form" name="newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+  <div hidden aria-hidden="true">
+    <label>
+      Don’t fill this out if you're human: 
+      <input name="bot-field" />
+    </label>
+  </div>
+    <div class="flex-l mhn1-l">
+      <!-- Name -->
+      <div class="ph1-l w-50-l">
+        <fieldset>
+          <input type="text" id="name" name="name" placeholder="Nome" class="w-100 mb2" required>
+          <label for="name">Nome</label>
+        </fieldset>
+      </div>
+      <!-- Email -->
+      <div class="ph1-l w-50-l">
+        <fieldset>
+          <input type="email" id="email" name="email" placeholder="Email" class="w-100 mb2" required>
+          <label for="email">Email</label>
+        </fieldset>
+      </div>
+    </div>
+
+    <!-- Message -->
+    <fieldset>
+      <textarea id="message" name="message" placeholder="Sua mensagem" rows="8" cols="80" class="w-100"></textarea>
+      <label for="message">Sua mensagem</label>
+    </fieldset>
+    <!-- Button -->
+    <div class="tc">
+      <button type="submit" class="btn w-100 w-auto-ns raise">Enviar</button>
+    </div>
+  </form>
+</div>
+  
+  <script>
+    const emailForm = document.querySelector('.email-form')
+if (emailForm) {
+  emailForm.addEventListener('submit', e => {
+    e.preventDefault();
+    processForm(emailForm);
+  })
+}
+    const processForm = form => {
+  const data = new FormData(form)
+  data.append('form-name', 'newsletter');
+  fetch('/', {
+    method: 'POST',
+    body: data,
+  })
+  .then(() => { 
+    form.innerHTML = `<div style="background:#90EE90;text-align:center">Obrigado ! Seu email foi enviado com sucesso !</div>`;
+  })
+  .catch(error => {
+    form.innerHTML = `<div class="form--error">Error: ${error}</div>`;
+  })
+}
+  </script>

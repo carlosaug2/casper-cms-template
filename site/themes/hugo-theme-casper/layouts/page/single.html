@@ -9,11 +9,12 @@
   <header class="main-header post-head" style="background-image: url({{ $baseurl }}{{.Params.image}})">
   {{ end }}
   <nav class="main-nav overlay clearfix">
-     <a href="/about" class="menu-button">Contato</a>
+    
 {{else}}
 <header class="main-header post-head no-cover">
+   <a href="/" class="menu-button">Home</a>
     <nav class="main-nav overlay clearfix">
-       <a href="/about" class="menu-button">Contato</a>
+      
 {{end}}
 
       {{ if .Site.Params.logo }}
@@ -25,7 +26,7 @@
     
       {{else}}
         {{ if .Site.Params.RSSLink}}
-          <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;Inscreva-se e receba novidades<</a>
+          <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;Inscreva-se e receba novidades</a>
        
         {{else}}
           <a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;Inscreva-se e receba novidades</a>
@@ -60,7 +61,7 @@
   <article class="post {{ .Section }}">
     <header class="post-header">
       <nav class="breadcrumb">
-         <a href="/about" class="menu-button">Contato</a>
+       
         {{ $currentNode := . }}
         {{ range .Site.Menus.main }}
         {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}
@@ -111,7 +112,7 @@
 <nav class="navchildren">
   <ul>
     <!-- Children contents -->
- <a href="/about" class="menu-button">Contato</a>
+
     {{ range .Menus.main.Children }}
     <li><a href="{{.URL}}" >{{ .Name }}</a></li>
     {{ end }}

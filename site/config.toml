@@ -12,9 +12,9 @@ canonifyurls = true
   description = "this is my description"
   cover = "images/botbot.jpg"
   author = ""
-  authorlocation = "Em algum local da galaxia"
+  authorlocation = "Em algum local da galáxia"
   authorwebsite = ""
-  bio= ""
+  bio= "/images/botbot.jpg"
   logo = ""
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml

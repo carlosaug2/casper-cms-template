@@ -14,7 +14,7 @@ canonifyurls = true
   author = ""
   authorlocation = "Em algum local da galáxia"
   authorwebsite = ""
-  bio= "teste"
+  bio= ""
   logo = "images/bots.jpg"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml

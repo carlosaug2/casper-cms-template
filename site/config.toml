@@ -27,3 +27,7 @@ canonifyurls = true
   hideHUGOSupport = false
   [params.social]
     twitter = ""
+    
+  [outputs]
+    home = [ "RSS", "HTML"]
+    section  = ["HTML"]

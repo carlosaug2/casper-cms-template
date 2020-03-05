@@ -28,3 +28,12 @@ canonifyurls = true
   [params.social]
     twitter = ""
     
+      [outputFormats.Atom]
+    mediaType = "application/atom"
+    baseName = "index"
+    isPlainText = false
+    
+      [outputs]
+    home = [ "HTML", "Atom" ]
+    
+    

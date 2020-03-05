@@ -49,7 +49,7 @@
     {{ if .Site.Params.RSSLink}}
   
 	<link href="{{ Site.Params.RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-        <link href="{{ Site.Params.RSSlink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+     <!--   <link href="{{ Site.Params.RSSlink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" /> -->
 	
     {{else}}
       {{ if ne .URL "/" }}

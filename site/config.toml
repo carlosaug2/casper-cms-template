@@ -28,14 +28,6 @@ canonifyurls = true
   [params.social]
     twitter = ""
     
- [outputs]
-  # <domain>/atom.xml
-  home = ["HTML", "RSS", "ATOM"]     # default = ["HTML", "RSS"]
-  # <domain>/posts/atom.xml
-  section = ["HTML", "RSS", "ATOM"]  # default = ["HTML", "RSS"]
-  # <domain>/tags/mytag/atom.xml, <domain>/categories/mycat/atom.xml
-  taxonomy = ["HTML", "RSS", "ATOM"] # default = ["HTML", "RSS"]
-    
   
     [mediaTypes]
     [mediaTypes."application/atom"]

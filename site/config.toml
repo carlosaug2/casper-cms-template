@@ -31,8 +31,11 @@ canonifyurls = true
   [outputs]
     home = [ "RSS", "HTML"]
     section  = ["HTML"]
+    taxonomyTerm = [ "HTML" ]
+    taxonomy = [ "HTML" ]
     
   [outputFormats]
   [outputFormats.RSS]
     mediatype = "application/rss"
     baseName = "feed"
+    

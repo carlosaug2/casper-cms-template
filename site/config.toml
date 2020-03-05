@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "pt-br"
 title = "PiXeLaDaS "
-theme = ["hugo-atom-feed", "hugo-theme-casper"]
+theme = "hugo-theme-casper"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site

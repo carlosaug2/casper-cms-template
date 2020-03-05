@@ -46,5 +46,4 @@ canonifyurls = true
     baseName = "index"
     isPlainText = false
     
-    [outputs]
-    home = [ "HTML", "Atom" ]
+   

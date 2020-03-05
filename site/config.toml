@@ -28,14 +28,3 @@ canonifyurls = true
   [params.social]
     twitter = ""
     
-  
-    [mediaTypes]
-    [mediaTypes."application/atom"]
-    suffix = "xml"
-
-    [outputFormats.Atom]
-    mediaType = "application/atom"
-    baseName = "index"
-    isPlainText = false
-    
-   

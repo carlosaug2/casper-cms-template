@@ -5,11 +5,4 @@
 [context.deploy-preview]
   command = "npm run build-preview"
   
-  [[headers]]
-  for = "atom.*"
-  [headers.values]
-    Content-Type = "application/atom+xml; charset=UTF-8"
-  [[headers]]
-  for = "*.atom"
-  [headers.values]
-    Content-Type = "application/atom+xml; charset=UTF-8"
+ 

@@ -28,4 +28,7 @@ canonifyurls = true
   [params.social]
     twitter = ""
     
+    [permalinks]
+  posts = "/:year/:month/:day/:title/"
+    
 

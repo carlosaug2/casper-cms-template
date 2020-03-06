@@ -9,6 +9,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
+  posts = "/:year/:month/:day/:title/"
   description = "this is my description"
   cover = "images/botbot.jpg"
   author = ""

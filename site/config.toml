@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.pixeladasx.com/"
 languageCode = "en-us"
 title = "PiXeLaDaS "
 theme = "hugo-theme-casper"

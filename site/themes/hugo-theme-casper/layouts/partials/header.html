@@ -46,11 +46,15 @@
     <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/nav.css" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400|Inconsolata" />
 
+	
+
 
     {{ if .Site.Params.RSSLink}}
 	
  	 <link href="{{.Site.Params.RSSlink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 	   <link href="{{.Site.Params.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+	<link href="{{ .Site.RSSlink }}" rel="home" type="application/atom+xml" title="{{ .Site.Title }}" />
+	
 	 
     {{else}}
       {{ if ne .URL "/" }}

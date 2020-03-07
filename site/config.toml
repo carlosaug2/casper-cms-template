@@ -19,7 +19,7 @@ canonifyurls = true
   logo = "images/bots.jpg"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = "http://feeds.feedburner.com/pixeladasx/blog"
+  RSSLink = "<a href="https://feedburner.google.com/fb/a/mailverify?uri=pixeladasx/blog&amp;loc=pt_BR">Subscribe to PiXeLaDaS by Email</a>"
   githubName = ""
   twitterName = ""
   # facebookName = ""

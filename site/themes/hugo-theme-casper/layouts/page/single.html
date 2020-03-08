@@ -27,16 +27,12 @@
     
       {{else}}
         {{ if .Site.Params.RSSLink}}
-     <i class="fas fa-heart"></i>
-      <ion-icon name="attach-outline"></ion-icon>
-
-       <a class="menu-button icon-asterisk" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;</a> 
+    
+       <a class="menu-button icon-github" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;</a> 
        
         {{else}}
-      <ion-icon name="attach-outline"></ion-icon>
-
- <i class="fas fa-heart"></i>
-        <a class="menu-button icon-asterisk" href="{{ .RSSLink }}">&nbsp;&nbsp;</a> 
+ 
+        <a class="menu-button icon-github" href="{{ .RSSLink }}">&nbsp;&nbsp;</a> 
           
         {{end}}
       {{end}}

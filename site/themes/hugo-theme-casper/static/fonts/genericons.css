@@ -60,6 +60,7 @@
  * Individual icons
  */
 
+.genericon-mail:before { content: '\f410'; }
 .genericon-404:before { content: "\f423"; }
 .genericon-activity:before { content: "\f508"; }
 .genericon-anchor:before { content: "\f509"; }

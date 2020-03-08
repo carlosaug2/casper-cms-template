@@ -27,12 +27,12 @@
     
       {{else}}
         {{ if .Site.Params.RSSLink}}
-      <a class="fas fa-cloud" href="{{.Site.Params.RSSLink }}"></a>
-       <!--   <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;</a> -->
+     
+       <a class="menu-button icon-star" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;</a> 
        
         {{else}}
- <a class="fas fa-cloud" href="{{.RSSLink }}"></a>
-        <!--  <a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;</a> -->
+
+        <a class="menu-button icon-star" href="{{ .RSSLink }}">&nbsp;&nbsp;</a> 
           
         {{end}}
       {{end}}

@@ -145,7 +145,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 .icon-feed:before {
     content: "\f413";
 }
-.genericon-home:before {            
+.icon-home:before {            
    content: '\f409'; 
 }
 .icon-twitter:before {

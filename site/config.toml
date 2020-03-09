@@ -1,5 +1,6 @@
 baseurl = "https://www.pixeladasx.com/"
 languageCode = "pt-br"
+languageLang = "pt"
 title = "PiXeLaDaS "
 theme = "hugo-theme-casper"
 # Enable Google Analytics by inserting your tracking code

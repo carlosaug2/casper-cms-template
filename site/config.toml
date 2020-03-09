@@ -1,4 +1,5 @@
 baseurl = "https://www.pixeladasx.com/"
+defaultContentLanguage = "en"
 languageCode = "pt-br"
 languageLang = "pt"
 title = "PiXeLaDaS "

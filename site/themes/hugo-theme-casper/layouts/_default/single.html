@@ -65,8 +65,8 @@
  
         <section class="post-meta">
            
-        {{ if eq .Section "post"}}
-         <p> <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML  }}"> Leitura: {{ .ReadingTime }}  {{ if eq .ReadingTime 1 }} min {{ else }} minutos {{ end }}
+        {{ if eq .Section "post"}}   <p> Leitura: {{ .ReadingTime }}  {{ if eq .ReadingTime 1 }} min {{ else }} minutos {{ end }}
+         <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML  }}"> 
             {{ .Date.Format "Jan 2, 2006" }} </time>  
           
          </p>

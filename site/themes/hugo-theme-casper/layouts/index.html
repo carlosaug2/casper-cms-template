@@ -21,10 +21,10 @@
        
         {{else}}
             {{ if .Site.Params.RSSLink}}
-              <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;</a> 
+              <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}"  alt="Inscreva-se e receba nosso Newsletter"  title="Inscreva-se e receba nosso Newsletter">&nbsp;&nbsp;</a> 
        
             {{else}}
-              <a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;</a>
+              <a class="menu-button icon-feed" href="{{ .RSSLink }}"  alt="Inscreva-se e receba nosso Newsletter"  title="Inscreva-se e receba nosso Newsletter">&nbsp;&nbsp;</a>
        
             {{end}}
         {{end}}

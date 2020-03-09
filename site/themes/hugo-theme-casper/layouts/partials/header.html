@@ -91,6 +91,7 @@
     {{ if .Site.Params.customHeaderPartial }}
         {{ partial .Site.Params.customHeaderPartial . }}
     {{ end }}
+	   <h2 class="page-description">{{ .Site.Params.description }}</h2> 
 </head>
 <body class="nav-closed">
 

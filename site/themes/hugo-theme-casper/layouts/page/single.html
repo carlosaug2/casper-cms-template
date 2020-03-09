@@ -98,14 +98,14 @@
 
         <section class="post-meta">
         {{ if eq .Section "post"}}
-       <p>    <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00"  }}">
-            {{ .Date.Format "Jan 2, 2006" }} </time>  | leitura: {{ .ReadingTime }}  {{ if eq .ReadingTime 1 }} minute {{ else }} minutes {{ end }}
+       <p>    <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00"  | safeHTML  }}"> leitura: {{ .ReadingTime }}  {{ if eq .ReadingTime 1 }} minute {{ else }} minutes {{ end }}
+            {{ .Date.Format "Jan 2, 2006" }} </time>  | 
             
           
          </p>
         {{end}}
          {{ range .Params.tags }}
-          <span class="post-tag small"><a href="{{ $baseurl }}tags/{{ .  urlize }}/">#{{ . }}</a></span>
+          <span class="post-tag small"><a href="{{ $baseurl }}tags/{{ . | urlize }}/">#{{ . }}</a></span>
          {{ end }}
         </section>
     </header>

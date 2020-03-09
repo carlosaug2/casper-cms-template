@@ -28,9 +28,9 @@
     </ul>
     
     {{ if .Site.Params.RSSLink}}
-    <a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}"></a> </div>
+    <a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}"  alt="Inscreva-se e receba nosso Newsletter"  title="Inscreva-se e receba nosso Newsletter"></a> </div>
     {{else}}
-    <a class="subscribe-button icon-feed" href="{{if .IsNode}}{{.RSSLink}}{{else}}{{ .Site.BaseURL }}index.xml{{end}}"></a>
+    <a class="subscribe-button icon-feed" href="{{if .IsNode}}{{.RSSLink}}{{else}}{{ .Site.BaseURL }}index.xml{{end}}"  alt="Inscreva-se e receba nosso Newsletter"  title="Inscreva-se e receba nosso Newsletter"></a>
     {{end}}
 </div>
 <span class="nav-cover"></span>

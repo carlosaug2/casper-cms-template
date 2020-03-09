@@ -14,7 +14,7 @@
 <header class="main-header post-head no-cover">
  
     <nav class="main-nav overlay clearfix">
-        <a href="/" alt="HOME" class="menu-button icon-home"></a>
+        <a href="/" class="menu-button icon-home"  alt="Voltar a Home"  title="Voltar a Home"></a>
 {{end}}
 
       {{ if .Site.Params.logo }}
@@ -30,11 +30,11 @@
     
 
 
-       <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink}}"></a> 
+       <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink}}"  alt="Inscreva-se e receba nosso Newsletter"  title="Inscreva-se e receba nosso Newsletter"></a> 
       
         {{else}}
 
-        <a class="menu-button icon-feed" alt=" FEED DE NOTICIAS"  href="{{ .RSSLink }}"></a> 
+        <a class="menu-button icon-feed"  href="{{ .RSSLink }}"  alt="Inscreva-se e receba nosso Newsletter"  title="Inscreva-se e receba nosso Newsletter"></a> 
           
         {{end}}
       {{end}}

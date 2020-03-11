@@ -30,6 +30,18 @@ canonifyurls = true
   
   [params.social]
     twitter = ""
+    
+    ## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "Sobre"
+    identifier = "about"
+    weight = 200
+    url = "/static/about"
 
     
 

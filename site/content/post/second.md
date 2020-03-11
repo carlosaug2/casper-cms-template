@@ -2,7 +2,6 @@
 ---
 date: 2020-02-28T20:04:40.407Z
 title: Segundo Post
-aliases: [/posts/second.md/]
 ---
 
 

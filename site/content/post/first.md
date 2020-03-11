@@ -3,13 +3,6 @@ date: '2020-03-20'
 author: Carlos
 image: /images/botbot.jpg
 slug: grupo-do-telegram
-categories:
-  - R
-tags:
-  - R
-  - Telegram
-  - Data Science
-  draft:false
 title: Primeiro Grande  (HELLO WORLD!)
 aliases: [/posts/first.md/]
 ---

@@ -1,8 +1,10 @@
 
 ---
-date: 2020-02-28T20:04:40.407Z
-title: Segundo Post
+date: 2020-02-29T20:04:40.407Z
+title: testando post
+aliases: [/posts/second.md/]
 ---
+
 
 
 

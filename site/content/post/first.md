@@ -1,9 +1,19 @@
 ---
-date: 2020-02-22T20:04:40.407Z
+
+date: '2020-03-20'
+author: Carlos
+image: /images/botbot.jpg
+slug: grupo-do-telegram
+categories:
+  - R
+tags:
+  - R
+  - Telegram
+  - Data Science
+  draft:false
 title: Primeiro Grande  (HELLO WORLD!)
 aliases: [/posts/first.md/]
 ---
-
 
 
 Hey, você ae cara palida..... (Em ritmo de carnaval  =D !) Sejam bem vindos amigos leitores/leitoras e novas pessoas ao meu novo blog, estou aproveitando o carnaval para dar um pontapé inicial no projeto (inaugurei o novo canal na semana de natal de 2019, porém, estou retornando oficialmente no dia de hoje !)

@@ -1,5 +1,5 @@
 ---
-date: 2020-02-31T20:04:40.407Z
+date: 2020-02-30T20:04:40.407Z
 title: POSTANDO DE NOVO
 aliases: [/posts/second.md/]
 draft: "false"

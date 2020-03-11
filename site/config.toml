@@ -20,7 +20,6 @@ canonifyurls = true
   logo = "images/bots.jpg"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
-
   mailchimp = "https://pixeladasx.us19.list-manage.com/subscribe/post?u=a6f2cac71996cb3b7aba9a34c&amp;id=76ccc40c89"
   githubName = ""
   twitterName = ""

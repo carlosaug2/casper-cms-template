@@ -1,6 +1,5 @@
 ---
 date: 2020-03-20
-author: Carlos
 image: /images/botbot.jpg
 title: Primeiro Grande  (HELLO WORLD!)
 aliases: [/posts/first.md/]

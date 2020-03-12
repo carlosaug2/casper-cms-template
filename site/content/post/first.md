@@ -6,7 +6,7 @@ aliases: [/posts/first.md/]
 slug: movies
 image: /images/botbot.jpg
 categories:
-  - Posts
+  - Movies
 tags:
   - Movies
 ---

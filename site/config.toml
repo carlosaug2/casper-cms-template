@@ -32,9 +32,10 @@ canonifyurls = true
     twitter = ""
     
   [params.index]
-  picture = ""
-  title = ""
-  subtitle = "
+  picture = "Data Science & R"
+  title = "Grupo de Telegram"
+  subtitle = ""
+  alertbar = false
  
 
 

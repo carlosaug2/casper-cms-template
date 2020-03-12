@@ -31,15 +31,11 @@ canonifyurls = true
   [params.social]
     twitter = ""
     
-    [params.index]
-  picture = "images/telegram-logo.png"
-  title = "Data Science & R"
-  subtitle = "Grupo de Telegram"
-  mdtext = '''
-Você pode saber mais sobre o grupo acessando a guia [**sobre**](static/about).\
-Acessar alguns posts na guia [**blog**](blog).\
-'''
-  alertbar = false
+  [params.index]
+  picture = ""
+  title = ""
+  subtitle = "
+ 
 
 
     

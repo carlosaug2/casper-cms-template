@@ -13,10 +13,9 @@ canonifyurls = true
 [params]
   description = "Seu espaço de entretenimento digital"
   cover = "images/duplicabot.jpg"
-  author = ""
+  author = "pixeladasx"
   authorlocation = "Em algum local da galáxia"
-  authorwebsite = ""
-  bio= ""
+  bio= "blabla"
   logo = "images/bots.jpg"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
@@ -32,8 +31,8 @@ canonifyurls = true
     twitter = ""
     
   [params.index]
-  picture = "Data Science & R"
-  title = "Grupo de Telegram"
+  picture = ""
+  title = ""
   subtitle = ""
   alertbar = false
  

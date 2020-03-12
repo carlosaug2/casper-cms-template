@@ -1,5 +1,5 @@
 ---
-date: 2020-03-20T00:00:00.000Z
+date: 2020-03-20TZ
 image: /images/botbot.jpg
 title: Primeiro Grande  (HELLO WORLD!)
 aliases: [/posts/first.md/]

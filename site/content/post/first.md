@@ -5,12 +5,6 @@ image: /images/botbot.jpg
 slug: grupo-do-telegram
 title: Primeiro Grande  (HELLO WORLD!)
 aliases: [/posts/first.md/]
-categories:
-  - R
-tags:
-  - R
-  - Telegram
-  - Data Science
 ---
 
 

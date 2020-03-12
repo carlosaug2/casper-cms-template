@@ -2,6 +2,7 @@
 date: 2020-01-06
 title: Primeiro Grande  (HELLO WORLD!)
 aliases: [/posts/first.md/]
+slug: grupo-do-telegram
 image: /images/botbot.jpg
 categories:
   - Posts

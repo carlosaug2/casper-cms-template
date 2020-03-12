@@ -1,9 +1,7 @@
 ---
 date: 2020-03-20T00:00:00.000Z
-image: /images/botbot.jpg
 title: Primeiro Grande  (HELLO WORLD!)
 aliases: [/posts/first.md/]
-draft: false
 ---
 
 Hey, você ae cara palida..... (Em ritmo de carnaval  =D !) Sejam bem vindos amigos leitores/leitoras e novas pessoas ao meu novo blog, estou aproveitando o carnaval para dar um pontapé inicial no projeto (inaugurei o novo canal na semana de natal de 2019, porém, estou retornando oficialmente no dia de hoje !)

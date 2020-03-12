@@ -1,6 +1,6 @@
 baseurl = "https://www.pixeladasx.com/"
 defaultContentLanguage = "en"
-languageCode = "pt-br"
+languageCode = "en-us"
 languageLang = "pt"
 title = "PiXeLaDaS "
 theme = "hugo-theme-casper"
@@ -30,6 +30,17 @@ canonifyurls = true
   
   [params.social]
     twitter = ""
+    
+    [params.index]
+  picture = "images/telegram-logo.png"
+  title = "Data Science & R"
+  subtitle = "Grupo de Telegram"
+  mdtext = '''
+Você pode saber mais sobre o grupo acessando a guia [**sobre**](static/about).\
+Acessar alguns posts na guia [**blog**](blog).\
+'''
+  alertbar = false
+
 
     
 

@@ -30,11 +30,6 @@ canonifyurls = true
   [params.social]
     twitter = ""
     
-  [params.index]
-  picture = ""
-  title = ""
-  subtitle = ""
-  alertbar = false
  
 
 

@@ -20,7 +20,7 @@ Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em pe
 
 <div style="position: absolute;
   left: -300px;top:100px"  markdown="">
- <img width="" height="400" src="/images/sn.jpg">
+ <img width="100" height="600" src="/images/sn.jpg">
  </div>
      
 

@@ -11,7 +11,7 @@ comments: true
 ---
 
 <div style="position: absolute;
-  left: 30px;top:100px"  markdown="1">
+  left: -300px;top:100px"  markdown="1">
  <img width="100" height="800" src="/images/sn.jpg">
  </div>
      

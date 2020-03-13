@@ -28,7 +28,7 @@ créditos: sega of america inc.
 Para quem nao se lembra ou e jovem o sufiente para lembrar a estreia do sonic aconteceu no final dos anos 80 no videogame master system , tendo versoes para todos os consoles da sega ate para seu ultimo videogame o Dreamcast (encerrando assim sua producao de hardware ) focando apenas nos jogos multiplaformas (Playstation3,Nintendo Wii,Playstation 4,etc). Mas como nosso post nao e sobre os games da franquia Sonic e sim o filme, sera que o filme do ouriço azul e realmente bom ?, confira em uma pequena analise a seguir: 
 
 
-## Live-Action : mais do mesmo ?
+### Live-Action : mais do mesmo ?
 
 Para quem nao se lembra ou e jovem o sufiente para lembrar a estreia do sonic aconteceu no final dos anos 80 no videogame master system , tendo versoes para todos os consoles da sega ate para seu ultimo videogame o Dreamcast (encerrando assim sua producao de hardware ) focando apenas nos jogos multiplaformas (Playstation3,Nintendo Wii,Playstation 4,etc). Mas como nosso post nao e sobre os games da franquia Sonic e sim o filme, sera que o filme do ouriço azul e realmente bom ?, confira em uma pequena analise a seguir: 
 Para quem nao se lembra ou e jovem o sufiente para lembrar a estreia do sonic aconteceu no final dos anos 80 no videogame master system , tendo versoes para todos os consoles da sega ate para seu ultimo videogame o Dreamcast (encerrando assim sua producao de hardware ) focando apenas nos jogos multiplaformas (Playstation3,Nintendo Wii,Playstation 4,etc). Mas como nosso post nao e sobre os games da franquia Sonic e sim o filme, sera que o filme do ouriço azul e realmente bom ?, confira em uma pequena analise a seguir: 

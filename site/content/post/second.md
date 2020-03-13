@@ -18,16 +18,17 @@ Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em pe
 
 ---
 
+
+
+### Do mundo dos videogames diretamente as telonas  
+
 <div style="position: absolute;
   left: -365px;top:500px"  markdown="1">
  <img width="300" height="1000" src="{{ with .Params.image }}{{ . }}{{ end }}">
  </div>
-     
 
-### Do mundo dos videogames diretamente as telonas  
-
-![Sonic o filme](/images/sf.jpg)
-créditos: sega of america inc.
+<!--![Sonic o filme](/images/sf.jpg)
+créditos: sega of america inc. -->
 
 ![Sonic o filme](/images/sh.jpg)
 créditos: sega of america inc.

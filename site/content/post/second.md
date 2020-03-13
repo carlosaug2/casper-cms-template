@@ -21,8 +21,7 @@ Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em pe
 
 ![Sonic o filme](/images/sf.jpg)
 creditos: sega of america inc.
-![Sonic o filme](/images/sa.jpg)
-creditos: sega of america inc.
+
 ![Sonic o filme](/images/sh.jpg)
 creditos: sega of america inc.
 

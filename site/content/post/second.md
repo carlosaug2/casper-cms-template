@@ -13,6 +13,15 @@ comments: true
 
 ![Sonic o filme](/images/sn.jpg)
 
-Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em personagens de videogames , porem nao e um personagem qualquer, e sim do nosso querido mascote o SONIC 
+Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em personagens de videogames , porem nao e um personagem qualquer, e sim do nosso querido mascote o SONIC desta vez dando as graças nas telonas do cinema !
+
+#DO MUNDO DOS VIDEOGAMES DIRETAMENTE AS TELONAS 
+
+Para quem nao se lembra ou e jovem o sufiente para lembrar a estreia do sonic aconteceu no final dos anos 80 no videogame master system , tendo versoes para todos os consoles da sega ate para seu ultimo videogame o Dreamcast (encerrando assim sua producao de hardware ) focando apenas nos jogos multiplaformas (Playstation3,Nintendo Wii,Playstation 4,etc) apos longos anos finalmente foi lançado um filme do ouriço azul e vamos verificar se o filme faz jus a sua grande popularidade com a nossa analise a seguir:
+
+## SONIC O FILME
+
+
+
 
 

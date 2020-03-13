@@ -11,8 +11,8 @@ comments: true
 ---
 
 <div style="position: absolute;
-  left: -300px;top:100px"  markdown="1">
- <img width="100" height="800" src="/images/sn.jpg">
+  left: -300px;top:100px"  markdown="">
+ <img width="" height="" src="/images/sn.jpg">
  </div>
      
 ![Sonic o filme](/images/sn.jpg)

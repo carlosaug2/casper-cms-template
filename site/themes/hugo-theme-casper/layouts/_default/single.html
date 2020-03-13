@@ -1,3 +1,15 @@
+<style>
+div.relative {
+  position: absolute;
+  left: 100px;
+  top: -150px;
+  background-color:yellow;
+
+  
+}
+</style>
+
+
 {{ partial "header.html" . }}
 
 {{ $baseurl := .Site.BaseURL }}
@@ -57,15 +69,14 @@
 
 
   <article class="post {{ .Section }}">
+    <div class="relative">
          <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuper.abril.com.br%2Fmundo-estranho%2Fqual-felino-e-o-melhor-cacador%2F&psig=AOvVaw3HFLYUxtAM0lbaRaUbQ5TA&ust=1584196142389000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiLo9XUl-gCFQAAAAAdAAAAABAD" title="Title of image" alt="alt text here">
 <img src="images/dev.jpg" title="A banana image" alt="Banana is good in taste!"/>
-
+    </div>
  
     <header class="post-header">
       
-           <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuper.abril.com.br%2Fmundo-estranho%2Fqual-felino-e-o-melhor-cacador%2F&psig=AOvVaw3HFLYUxtAM0lbaRaUbQ5TA&ust=1584196142389000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiLo9XUl-gCFQAAAAAdAAAAABAD" title="Title of image" alt="alt text here">
-<img src="images/dev.jpg" title="A banana image" alt="Banana is good in taste!"/>
-
+        
        
         <h1 class="post-title">{{.Title}}</h1>
         <small>{{.Description}}</small>

@@ -18,10 +18,7 @@ Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em pe
 
 ---
 
-<div style="position: absolute;
-  left: -300px;top:100px"  markdown="">
- <img width="100" height="600" src="/images/sn.jpg">
- </div>
+
      
 
 ### Do mundo dos videogames diretamente as telonas  
@@ -34,6 +31,10 @@ créditos: sega of america inc.
 
 Para quem nao se lembra ou e jovem o sufiente para lembrar a estreia do sonic aconteceu no final dos anos 80 no videogame master system , tendo versoes para todos os consoles da sega ate para seu ultimo videogame o Dreamcast (encerrando assim sua producao de hardware ) focando apenas nos jogos multiplaformas (Playstation3,Nintendo Wii,Playstation 4,etc). Mas como nosso post nao e sobre os games da franquia Sonic e sim o filme, sera que o filme do ouriço azul e realmente bom ?, confira em uma pequena analise a seguir: 
 
+<div style="position: absolute;
+  left: -300px;top:100px"  markdown="">
+ <img width="300" height="600" src="/images/sn.jpg">
+ </div>
 
 ### Live-Action : mais do mesmo ?
 

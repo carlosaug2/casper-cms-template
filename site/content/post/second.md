@@ -3,7 +3,7 @@ date: 2020-03-12
 image: 
 title: SONIC O FILME
 aliases: [/posts/second.md/]
-slug: 
+slug: movies
 categories:
   - Movies
 draft: false

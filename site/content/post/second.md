@@ -10,8 +10,8 @@ draft: false
 comments: true
 ---
 
-<div style="float:right; padding:16px"  markdown="1">
- <img width="460" height="300" src="/images/sn.jpg">
+<div style="margin-left:100px;margin-top:160px"  markdown="1">
+ <img width="100" height="300" src="/images/sn.jpg">
  </div>
      
 ![Sonic o filme](/images/sn.jpg)

@@ -10,16 +10,19 @@ draft: false
 comments: true
 ---
 
-<div style="position: absolute;
-  left: -300px;top:100px"  markdown="">
- <img width="" height="" src="/images/sn.jpg">
- </div>
-     
+
 ![Sonic o filme](/images/sn.jpg)
 
-Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em personagens de videogames , porem nao e um personagem qualquer, e sim do nosso querido mascote o SONIC desta vez dando as graças nas telonas do cinema ! 
+Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em personagens de videogames , porem nao e um personagem qualquer, e sim do nosso querido mascote o SONIC desta vez dando as graças nas telonas do cinema ! <!--more-->
+
 
 ---
+
+<div style="position: absolute;
+  left: -300px;top:100px"  markdown="">
+ <img width="" height="400" src="/images/sn.jpg">
+ </div>
+     
 
 ### Do mundo dos videogames diretamente as telonas  
 

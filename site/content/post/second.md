@@ -17,7 +17,7 @@ Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em pe
 
 ---
 
-### DO MUNDO DOS VIDEOGAMES DIRETAMENTE AS TELONAS 
+#### DO MUNDO DOS VIDEOGAMES DIRETAMENTE AS TELONAS 
 
 ![Sonic o filme](/images/sf.jpg)
 créditos: sega of america inc.

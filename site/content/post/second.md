@@ -6,7 +6,7 @@ aliases: [/posts/second.md/]
 slug: movies
 categories:
   - Movies
-draft: true
+draft: false
 comments: true
 ---
 

@@ -1,19 +1,24 @@
 ---
-date: 2020-03-12
+date: {{ .Date }}
 image: 
 title: SONIC O FILME
 aliases: [/posts/second.md/]
 slug: movies
 categories:
   - Movies
-draft: false
+draft: true
 comments: true
 ---
 
+{{< figure figcaption="caption text" >}}
+
+  {{< img src="/images/botbot.jpg" alt="alt text" >}}
+
+{{< /figure >}}
 
 ![Sonic o filme](/images/sn.jpg)
 
-Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em personagens de videogames , porem nao e um personagem qualquer, e sim do nosso querido mascote o SONIC desta vez dando as graças nas telonas do cinema !
+Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em personagens de videogames , porem nao e um personagem qualquer, e sim do nosso querido mascote o SONIC desta vez dando as graças nas telonas do cinema ! <!--more-->
 
 ---
 

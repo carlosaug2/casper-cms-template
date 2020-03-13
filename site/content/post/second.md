@@ -10,9 +10,9 @@ draft: false
 comments: true
 ---
 
-<img src="images/botbot/jpg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+<div style="float:right; padding:16px"">
+![Kitten](/images/botbot.jpg)
+</div>
      
 ![Sonic o filme](/images/sn.jpg)
 

@@ -14,8 +14,8 @@ comments: true
 ![Sonic o filme](/images/sn.jpg)
 
 <div style="position: absolute;
-  left:;top:"  markdown="1">
- <img width="" height="" src="{{ with .Params.image }}{{ . }}{{ end }}">
+  left:0;top:0"  markdown="1">
+ <img width="100" height="100" src="{{ with .Params.image }}{{ . }}{{ end }}">
  </div>
 
 Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em personagens de videogames , porem nao e um personagem qualquer, e sim do nosso querido mascote o SONIC desta vez dando as graças nas telonas do cinema ! <!--more-->

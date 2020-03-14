@@ -13,11 +13,10 @@ comments: true
  
 
 [<img src="/images/sn.jpg" width="100%"/>](/images/sn.jpg)
-
-Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em personagens de videogames , porem nao e um personagem qualquer, e sim do nosso querido mascote o SONIC desta vez dando as graças nas telonas do cinema !
 &nbsp;&nbsp;
+Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em personagens de videogames , porem nao e um personagem qualquer, e sim do nosso querido mascote o SONIC desta vez dando as graças nas telonas do cinema ! 
 <!--more-->
----
+
 
 
 

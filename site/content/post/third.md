@@ -2,7 +2,7 @@
 date: 2020-03-14
 image: /images/botbot.jpg
 title: POST DE TESTE DE RSS
-aliases: [/posts/first.md/]
+aliases: [/posts/third.md/]
 slug: news
 image: /images/botbot.jpg
 categories:

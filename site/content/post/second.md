@@ -15,7 +15,7 @@ comments: true
 
 
 
-![Kitten](/images/sn.jpg | width=100%)
+<div style="width:50%">![Kitten](/images/sn.jpg)<div>
 
 
 ![Sonic o filme](/images/sn.jpg)

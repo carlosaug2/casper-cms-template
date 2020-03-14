@@ -15,7 +15,7 @@ comments: true
 
 
 
-![Kitten](/images/sn.jpg){: width=100% height=auto style="float:right; padding:16px"}
+![Kitten](/images/sn.jpg){: width=100px height=100px style="float:right; padding:16px; width:100%; height:auto; "}
 
 
 ![Sonic o filme](/images/sn.jpg)

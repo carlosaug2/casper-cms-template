@@ -1,6 +1,7 @@
 ---
 date: 2020-03-12
-image: 
+coverImage: http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1477342854/positano-amalfi-coast-italy-AMALFI1024.jpg?itok=Aa5bXDAF
+thumbnailImagePosition: left
 title: SONIC O FILME
 aliases: [/posts/second.md/]
 slug: movies
@@ -12,6 +13,7 @@ comments: true
 ---
 
 
+<!--more-->
 
 
 

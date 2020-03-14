@@ -1,4 +1,3 @@
-
 ---
 date: 2020-03-11
 image: /images/botbot.jpg

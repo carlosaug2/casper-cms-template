@@ -15,7 +15,7 @@ comments: true
 
 
 
-<div style="width:100%">![Chilling](https://www.w3schools.com/w3images/fjords.jpg)</div>
+
 [<img src="/images/sn.jpg" width="100%"/>](/images/sn.jpg)
 
 <!--[Sonic o filme](/images/sn.jpg)-->

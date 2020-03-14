@@ -68,7 +68,7 @@
  
         <section class="post-meta">
            {{ if eq .Section "post"}}
-        <p>  <time>{{ .PublishDate.Format "Jan 2, 2006" }}</time> | 
+        <p>  <time>{{ .PublishDate.Format "Jan 2, 2006T00:00:00Z"  }}</time> | 
           Leitura de  {{ .ReadingTime }}  {{ if eq .ReadingTime 1 }} minuto {{ else }} minutos {{ end }}  </p>
           
       <!--  }   <p>  {{ .ReadingTime }}  {{ if eq .ReadingTime 1 }} minute {{ else }} minutes {{ end }}
@@ -78,7 +78,7 @@
          </p> -->
         {{end}}
       
-          
+       
          {{ range .Params.tags }}
           <span class="post-tag small"><a href="{{ $baseurl }}tags/{{ . | urlize }}/">#{{ . }}</a></span>
           

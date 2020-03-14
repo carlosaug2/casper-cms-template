@@ -16,13 +16,15 @@ comments: true
 
 
 
-[<img src="/images/sn.jpg" width="100%"/>](/images/sn.jpg)
 
-<!--more-->
+
+
 
 Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em personagens de videogames , porem nao e um personagem qualquer, e sim do nosso querido mascote o SONIC desta vez dando as graças nas telonas do cinema ! 
 
+[<img src="/images/sn.jpg" width="100%"/>](/images/sn.jpg)
 
+<!--more-->
 ---
 
 
@@ -30,10 +32,10 @@ Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em pe
 ### Do mundo dos videogames diretamente as telonas  
 
 
-![<img src="/images/sf.jpg" width="100%"/>](/images/sf.jpg)
+[<img src="/images/sf.jpg" width="100%"/>](/images/sf.jpg)
 créditos: sega of america inc.
 
-![<img src="/images/sh.jpg" width="100%"/>](/images/sh.jpg)
+[<img src="/images/sh.jpg" width="100%"/>](/images/sh.jpg)
 créditos: sega of america inc.
 
 Para quem nao se lembra ou e jovem o sufiente para lembrar a estreia do sonic aconteceu no final dos anos 80 no videogame master system , tendo versoes para todos os consoles da sega ate para seu ultimo videogame o Dreamcast (encerrando assim sua producao de hardware ) focando apenas nos jogos multiplaformas (Playstation3,Nintendo Wii,Playstation 4,etc). Mas como nosso post nao e sobre os games da franquia Sonic e sim o filme, sera que o filme do ouriço azul e realmente bom ?, confira em uma pequena analise a seguir: 
@@ -42,7 +44,7 @@ Para quem nao se lembra ou e jovem o sufiente para lembrar a estreia do sonic ac
 
 ### Live-Action : mais do mesmo ?
 
-![<img src="/images/devsonic.jpg" width="100%"/>](/images/devsonic.jpg)
+[<img src="/images/devsonic.jpg" width="100%"/>](/images/devsonic.jpg)
 créditos: sega of america inc.
 
 Para quem nao se lembra ou e jovem o sufiente para lembrar a estreia do sonic aconteceu no final dos anos 80 no videogame master system , tendo versoes para todos os consoles da sega ate para seu ultimo videogame o Dreamcast (encerrando assim sua producao de hardware ) focando apenas nos jogos multiplaformas (Playstation3,Nintendo Wii,Playstation 4,etc). Mas como nosso post nao e sobre os games da franquia Sonic e sim o filme, sera que o filme do ouriço azul e realmente bom ?, confira em uma pequena analise a seguir: 

@@ -13,14 +13,16 @@ comments: true
  
 
 [<img src="/images/sn.jpg" width="100%"/>](/images/sn.jpg)
-&nbsp;&nbsp;
+
+----
+
 Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em personagens de videogames , porem nao e um personagem qualquer, e sim do nosso querido mascote o SONIC desta vez dando as graças nas telonas do cinema ! 
 <!--more-->
 
 
 
 
-### Do mundo dos videogames diretamente as telonas  
+#### Do mundo dos videogames diretamente as telonas  
 
 
 [<img src="/images/sf.jpg" width="100%"/>](/images/sf.jpg)
@@ -33,7 +35,7 @@ Para quem nao se lembra ou e jovem o sufiente para lembrar a estreia do sonic ac
 
 
 
-### Live-Action : mais do mesmo ?
+#### Live-Action : mais do mesmo ?
 
 [<img src="/images/devsonic.jpg" width="100%"/>](/images/devsonic.jpg)
 créditos: sega of america inc.

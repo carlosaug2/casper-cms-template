@@ -2,6 +2,7 @@
 date: 2020-03-11
 image: /images/botbot.jpg
 title: Primeiro Grande  (HELLO WORLD!)
+author: "pixeladas"
 aliases: [/posts/first.md/]
 slug: news
 image: /images/botbot.jpg

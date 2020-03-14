@@ -14,14 +14,15 @@ comments: true
 ![Sonic o filme](/images/sn.jpg)
 -->
 
-<style>
-img {
+.img {
   width: 100%;
   height: auto;
 }
-</style>
 
-<img src="/images/sn.jpg" width="460" height="345">
+<div class="img">
+    <img src="/images/sn.jpg">
+</div>
+
 
 <!--
 <div style="position: absolute;

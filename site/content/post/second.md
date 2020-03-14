@@ -15,8 +15,8 @@ comments: true
 
 
 
-<div style="width:50%">![Kitten](/images/sn.jpg)<div>
-
+<div style="width:50%">![Chilling](https://www.w3schools.com/w3images/fjords.jpg)</div>
+[<img src="/images/sn.jpg" width="250"/>](/images/sn.jpg)
 
 ![Sonic o filme](/images/sn.jpg)
 

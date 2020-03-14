@@ -1,13 +1,30 @@
 teste
 
+
+ 
+ 
+  
+  
+
+   
+  
+
 {{ partial "header.html" . }}
 {{ $baseurl := .Site.BaseURL }}
 
 {{if .Params.cover}}
+	  
+
   {{if or (eq (substr .Params.cover 0 7) "http://") (eq (substr .Params.cover 0 8) "https://")}}
+	  {{if .Params.image}}
+	  {{if or (eq (substr .Params.image 0 7) "http://") (eq (substr .Params.image 0 8) "https://")}}
+	    
+      <header class="main-header post-head" style="background-image: url({{.Params.image}})">
+    
 	<header class="main-header tag-head" style="background-image: url({{.Params.cover}})">
   {{ else }}
   <header class="main-header tag-head" style="background-image: url({{ $baseurl }}{{.Params.cover}})">
+	  <header class="main-header post-head" style="background-image: url({{ $baseurl }}{{.Params.image}})">
   {{ end }}
 {{else if .Site.Params.cover}}
 	{{if or (eq (substr .Site.Params.cover 0 7) "http://") (eq (substr .Site.Params.cover 0 8) "https://")}}

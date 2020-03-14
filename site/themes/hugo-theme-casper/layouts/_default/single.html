@@ -1,15 +1,10 @@
 <!--POSTAGENS INTERNAS--> 
 
-
-
-
 {{ partial "header.html" . }}
 
 {{ $baseurl := .Site.BaseURL }}
   
 {{if .Params.image}}
-
- .teste{ width: 100%; height:auto; }
 
   {{if or (eq (substr .Params.image 0 7) "http://") (eq (substr .Params.image 0 8) "https://")}}
   

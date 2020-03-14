@@ -15,7 +15,7 @@ comments: true
 -->
 <div style="position: absolute;
   left:0;top:0"  markdown="1">
-<img width= "100%" height="auto" src="src="/images/sn.jpg">
+<img width: 100%; height:auto; src="src="/images/sn.jpg">
   </div>
 
 

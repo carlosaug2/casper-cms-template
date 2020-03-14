@@ -7,21 +7,15 @@ slug: movies
 categories:
   - Movies
 draft: false
+getresizeimage: true
 comments: true
 ---
 
-<!--
+
 ![Sonic o filme](/images/sn.jpg)
--->
 
-.img {
-  width: 100%;
-  height: auto;
-}
 
-<div class="img">
-    <img src="/images/sn.jpg">
-</div>
+
 
 
 <!--

@@ -18,7 +18,7 @@ comments: true
 
 ----
 
-Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em personagens de videogames , porem nao e um personagem qualquer, e sim do nosso querido mascote o SONIC que estreia nas telonas do cinema !
+Segundo post do blog esta no ar, desta vez vamos falar de um filme baseado em personagens de videogames , porém não é um personagem qualquer e sim do nosso querido mascote dos games: O SONIC que estreia nas telonas do Cinema.
 <!--more-->
 
 #### Do mundo dos videogames diretamente as telonas  

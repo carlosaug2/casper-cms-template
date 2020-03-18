@@ -15,7 +15,7 @@ canonifyurls = true
   cover = "images/duplicabot.jpg"
   author = "pixeladasx"
   authorlocation = "Em algum local da galáxia"
-  bio= "master of illusion"
+  bio= "Master of Illusion"
   logo = "images/bots.jpg"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
